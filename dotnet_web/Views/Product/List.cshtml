@@ -1,0 +1,29 @@
+@model dotnet_web.ViewModels.ProductViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Product</title>
+</head>
+<body>
+
+        <h1>@Model.Category.Name</h1>
+        <ul>
+        @foreach (var product in Model.Products)
+        {
+                <li>
+                        <div>
+                                <p>@product.Name</p>
+                                <p>@product.Price</p>
+                                <p>@product.Description</p>
+                        </div>
+                        <br>
+                </li>
+        }
+        </ul>
+
+
+
+</body>
+</html>

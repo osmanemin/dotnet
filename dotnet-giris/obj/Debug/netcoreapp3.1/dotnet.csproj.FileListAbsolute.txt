@@ -1,0 +1,13 @@
+/home/osman/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet
+/home/osman/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.deps.json
+/home/osman/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.json
+/home/osman/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.dev.json
+/home/osman/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.dll
+/home/osman/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.pdb
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.csprojAssemblyReference.cache
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfoInputs.cache
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfo.cs
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.csproj.CoreCompileInputs.cache
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.dll
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.pdb
+/home/osman/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.genruntimeconfig.cache
